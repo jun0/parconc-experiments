@@ -1,7 +1,5 @@
-import Control.Parallel
 import Control.Parallel.Strategies
 import System.Environment
-import Control.Exception
 import Control.Monad.Par
 import Data.List
 
